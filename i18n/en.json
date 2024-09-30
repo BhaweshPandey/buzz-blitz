@@ -1,0 +1,469 @@
+{
+  "i18n": {
+    "test": "test string"
+  },
+  "frequentlyAskedQuestions": {
+    "heading": "Frequently asked questions",
+    "search": "Search",
+    "loremIpsum": "Lorem ipsum dolor sit amet",
+    "faqQuestion": "What is FAQ Questions?",
+    "faqAns": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+  },
+  "termsAndConditionAndPolicy": {
+    "termsAndCondition": {
+      "heading": "Terms and Conditions",
+      "firstParagraph": "The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "secondParagraph": "Section 1.10.32 of 'de Finibus Bonorum et Malorum', written by Cicero in 45 BC Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
+    },
+    "privacyPolicy": {
+      "heading": "Privacy Policy"
+    },
+    "cookiePolicy": {
+      "heading": "Cookie Policy"
+    }
+  },
+  "global": {
+    "header":{
+     "heading-1":"Features",
+     "heading-2":"Pricing",
+     "heading-3":"Download",
+     "heading-4":"Company",
+     "heading-5":"Support",
+      "subHeading-4-1":"Contact",
+      "subHeading-4-2":"About Us",
+      "subHeading-4-3":"Carrers",
+      "subHeading-4-4":"Blog",
+      "subHeading-4-5":"Media Kit",
+      "subHeading-5-1":"Documentation",
+      "subHeading-5-2":"Knowledge Base",
+      "subHeading-5-3":"Community",
+      "subHeading-5-4":"Getting Started",
+      "button-1":"Login",
+      "button-2":"Sign Up",
+      "language":"Language"
+    },
+    "hero": {
+      "heading":"Lorem ipsum dolor sit amet, consectetur ",
+      "subHeading":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "button-1":"Get Buzz Blitz",
+      "button-2":"Learn more"
+    },
+    "WorkCard":{
+      "heading-1":"It just works",
+      "heading-2":"Speed, flexibility, and security",
+      "subHeading-1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "subHeading-2-1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "subHeading-2-2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+      "subHeading-2-3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ."
+    },
+    "testimonial":{
+      "title":"Lorem ipsum dolor sit amet, consectetur.",
+      "heading-1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading-2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "heading-3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading-4":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "subHeading-1":"Lorem ipsum dolor sit amet, consectetur.",
+      "subHeading-2":"Lorem ipsum dolor sit amet, consectetur.",
+      "subHeading-3":"Lorem ipsum dolor sit amet, consectetur.",
+      "subHeading-4":"Lorem ipsum dolor sit amet, consectetur."
+    },
+    "team":{
+      "title":"Ultricies integer quis auctor elit",
+      "heading-1":"Lorem ipsum",
+      "heading-2":"Lorem ipsum",
+      "heading-3":"Lorem ipsum",
+      "heading-4":"Lorem ipsum",
+      "subHeading-1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "subHeading-2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "subHeading-3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "subHeading-4":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "pricing":{
+      "title":"Lorem ipsum",
+      "subTitle":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "semiHeading-1":"Lorem ipsum",
+      "semiHeading-2":"Lorem ipsum",
+      "semiHeading-3":"Lorem ipsum",
+      "subHeading-1-1":"Velit sed ullamcorper morbi",
+      "subHeading-1-2":"✓ 1 Ultricies ",
+      "subHeading-1-3":"✓ 25 Lorem",
+      "subHeading-1-4":"✓ Lorem ipsum ",
+      "subHeading-1-5":"✖ Lorem ipsum ",
+      "subHeading-1-6":"✓ Lorem ipsum ",
+      "subHeading-1-7":"FREE",
+      "subHeading-2-1":"Velit sed ullamcorper morbi",
+      "subHeading-2-2":"✓ Ultricies s | $10 USD/mo each",
+      "subHeading-2-3":"✓ 25 Lorem ipsum  | $5 USD/mo",
+      "subHeading-2-4":"✓ Lorem ipsum ",
+      "subHeading-2-5":"✓ Lorem ipsum  | $5 USD/mo per seat",
+      "subHeading-2-6":"✓ Lorem ipsum ",
+      "subHeading-2-7":"Starting at $5 USD/month",
+      "subHeading-3-1":"Velit sed ullamcorper morbi",
+      "subHeading-3-2":"Lorem ipsum  mi ",
+      "subHeading-3-3":"-IoT/IIoT",
+      "subHeading-3-4":"-SD-WAN",
+      "subHeading-3-5":"-VPN",
+      "subHeading-3-6":"-Lorem ipsum sit amet",
+      "subHeading-3-7":"Lorem ipsum vulputate mi ",
+      "button-1":"Free Sign Up",
+      "button-2":"Sign Up",
+      "button-3":"Contact Sales"
+    },
+    "body":{
+      "heading-1":"Lorem ipsum dolor sit amet",
+      "heading-2":"Velit sed ullamcorper morbi",
+      "subHeading-1":"Ultricies integer quis auctor elit sed vulputate mi sit. Sed egestas egestas fringilla phasellus faucibus.",
+      "subHeading-2":"Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Orci ac auctor augue mauris augue. Pellentesque sit amet porttitor eget dolor morbi.",
+      "button-1":"Contact Sales",
+      "button-2":"Conatct SP Sales"
+    },
+    "Community":{
+      "heading":"Lorem ipsum dolor sit amet",
+      "subHeading":"Ultricies integer quis auctor elit sed vulputate mi sit. Sed egestas egestas fringilla phasellus faucibus.",
+      "button-1":"ipsum dolor",
+      "button-2":"Lorem ipsum "
+    },
+    "letter":{
+      "heading":"Velit sed ullamcorper morbi",
+      "subHeading":"Ultricies integer quis auctor elit sed vulputate mi sit. Sed egestas egestas fringilla phasellus faucibus.",
+      "input":"ipsum dolor",
+      "button":"Lorem ipsum "
+    },
+    "footer":{
+      "try":"Download Github SDK Partners",
+      "header":"Hare Krishna",
+      "heading-1":"GET STARTED",
+      "heading-2":"SUPPORT",
+      "heading-3":"COMPANY",
+      "subHeading-1-1":"Download",
+      "subHeading-1-2":"Github",
+      "subHeading-1-3":"SDK",
+      "subHeading-1-4":"Partners",
+      "subHeading-2-1":"Documentation",
+      "subHeading-2-2":"Knowledge Base",
+      "subHeading-2-3":"Community",
+      "subHeading-2-4":"Getting Started",
+       "rights":"© 2024 Buzz Blitz, Inc. All rights reserved.",
+       "terms":"Terms",
+       "policy":"Privacy Policy"
+    },
+    "Cookie":{
+      "heading":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "button-1":"Customize choices",
+      "button-2":"Reject",
+      "button-3":"Accept All"
+    }
+  },
+  "myOrder": {
+    "heading": "My orders",
+    "search": "Search",
+    "tabs": {
+      "headingOne": "All orders",
+      "headingTwo": "Ongoing orders",
+      "headingThree": "Previous orders"
+    },
+    "cardStatus": {
+      "onProgress": "On progress",
+      "cancelled": "Cancelled",
+      "completed": "Completed"
+    },
+    "headingPebeaSneakers": "Pebea Sneakers",
+    "transactionDetails": {
+      "orderId": "Order ID",
+      "date": "Transactions date",
+      "price": "Total price",
+      "paymentMethod": "Payment"
+    },
+    "searchNotFound": {
+      "title": "Search can’t be found",
+      "para": "Your keyword can’t be found, please try another keyword"
+    },
+    "detailButtonText": "Details",
+    "orderDetails": {
+      "heading": "Order details",
+      "order": "Order",
+      "itemsDetails": "Items details",
+      "deliveryDetails": "Delivery details",
+      "paymentDetails": "Payment details",
+      "method": "Payment method",
+      "itemPrice": "Item price ( QUANTITY items )",
+      "itemsText": "items",
+      "fee": "Delivery fee",
+      "payment": "Total payment",
+      "status": {
+        "progress": "On Progress",
+        "completed": "Completed",
+        "cancelled": "Cancelled",
+        "delivery": "Delivery"
+      },
+      "cancel": {
+        "heading": "Cancelling this order",
+        "para": "Are you sure you want to cancel this order now?"
+      },
+      "return": {
+        "heading": "Return this product",
+        "para": "Please select any of the below reason to return the order."
+      }
+    }
+  },
+  "myCart": {
+    "heading": "My Cart",
+    "pebeaSneakers": "Pebea Sneakers"
+  },
+  "checkOutNow": {
+    "backButtonText": "Checkout",
+    "addresstext": "Delivery address",
+    "totalPrice": "Total price:",
+    "addressModal": {
+      "name": "Recipient name",
+      "phoneNumber": "Recipient phone number",
+      "addressName": "Address name",
+      "province": "Province",
+      "district": "District",
+      "code": "Postal code",
+      "select": "Select"
+    },
+    "deleteCartItemModal": {
+      "heading": "Remove cart item",
+      "subHeading": "Are you sure you want to remove this cart item from your cart?"
+    }
+  },
+  "signUpForm": {
+    "login": "Log in",
+    "forgetPassword": "Forgot password?",
+    "newUser": "Don't have an account? ",
+    "signUp": "Sign up",
+    "loginButtonText": "Login",
+    "subText": "We'll send a E-Mail to reset your password",
+    "backToLogin": "Back to Login",
+    "continue": "Continue",
+    "passwordLength": "must be at least 8 characters",
+    "errorMessage": "This email can’t be found, make sure email is incorrect",
+    "unexpectedError": "An unexpected error occurred. Please try again later.",
+    "otpTimerText": "OTP Timer: timer seconds"
+  },
+  "authentication": {
+    "invalidEmail": "Invalid email",
+    "invalidPassword": "Invalid password",
+    "passwordNotMatch": "Password does not match",
+    "invalidNumber": "Please enter a valid number.",
+    "enterMobileNumber": "Enter Mobile Number",
+    "required": "Required Field",
+    "strings": {
+      "incChar": "Includes at least 6 characters",
+      "incNum": "Includes number",
+      "incLower": "Includes lowercase letter",
+      "incUpper": "Includes uppercase letter",
+      "incSym": "Includes special symbol"
+    },
+    "formText": {
+      "signUp": "Sign up now",
+      "writeEmail": "Write your email",
+      "writePassword": "Write your password",
+      "name": "Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "continue": "Continue",
+      "forgetPassword": "Forgot Password",
+      "newUser": "Don't have an account?",
+      "login": "Login",
+      "agreeText": "I agree to the ",
+      "termsAndConditions": "Terms and Conditions",
+      "invalidNumber": "Please enter a valid number.",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email",
+      "errorMessage": "This email or password is incorrect, please try again",
+      "oldUser": "Already have account?",
+      "successfully": "Successfully",
+      "forgotPasswordText": "Please enter your registered email or phone number to receive the reset link.",
+      "forgotPasswordLink": "Please check your registered email or phone number"
+    }
+  },
+  "contactUs": {
+    "imageHeading": "Get in touch",
+    "imageParagraph": "We’d love to hear from you",
+    "contactTitle": "Contact details",
+    "contactDetails": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "location": "Location map",
+    "buttonAboveHeadingOne": "Browse our FAQs",
+    "buttonAboveHeadingTwo": "Get in touch with us",
+    "buttonText1": "Browse FAQs",
+    "buttonText2": "Send feedbacks"
+  },
+  "becomeMember": {
+    "playWheelMember": "Become Playwheel member",
+    "memberParagraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the was popularised in the 1960s with the release of Letraset sheets containing."
+  },
+  "bookingForEvent": {
+    "aboutMultipurposeText": "About multipurpose hall & services",
+    "galleryText": "Gallery",
+    "bookingForEventText": "Booking for events",
+    "packagePriceText": "Package price",
+    "addToCartText": "Add to cart",
+    "checkOutNowText": "Check out now",
+    "totalPriceText": "Total price",
+    "addOnPriceText": "Add-ons price",
+    "addOnsText": "Add-ons",
+    "addOnNameText": "Add-on name",
+    "chooseDateText": "Choose date and time",
+    "checkoutText": "Checkout",
+    "addCouponText": "Add coupon code",
+    "paymentProceedButtonText": "Proceed to payment",
+    "bookingForEventHeading": "Book For Events"
+  },
+  "kidZone": {
+    "heading": "Open Play",
+    "availableAndTiming": "Availability & Timings",
+    "timing": "Timings:",
+    "availableSlots": "Available slots",
+    "services": "Services",
+    "selectDate": "Select date"
+  },
+  "addKidDetails": {
+    "kidName": "Kid’s name",
+    "kidNamePlaceholder": "Write name",
+    "kidDateOfBirthText": "Kid's Date of Birth",
+    "kidFavouriteColor": "Favorite color",
+    "kidFavouriteColorPlaceholder": "Write color",
+    "nextButton": "Next ",
+    "previousButtonText": "Previous",
+    "saveButtonText": "Save",
+    "editKidDetails": "Edit kid’s detail"
+  },
+  "workshop": {
+    "workshopHeadingOne": "Ongoing Workshop",
+    "workshopHeadingTwo": "Upcoming workshops",
+    "aboutWorkshop": "About workshop",
+    "aboutOrganizer": "About organizer",
+    "workshopCardHeading": "Name of the workshop",
+    "buttonText": "Buy now",
+    "progressbarText": "Seat available",
+    "bookingWorkshop": "Booking for workshop",
+    "choosekidDetails": "Choose kids details",
+    "addKidDetails": "Add new kid’s details",
+    "workshopName": "Workshop name here",
+    "buttonTextOne": "Add to cart",
+    "buttonTextTwo": "Check out now",
+    "workshopImageHeading": "Workshops",
+    "calenderButtonText": "Select from calendar",
+    "workshopParagraphFirst": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "workshopParagraphSecond": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "workshopParagraphThird": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+    "selectDate": "Select from calendar"
+  },
+  "productPage": {
+    "visitStore": "Visit store",
+    "totalProduct": "Total product",
+    "productSold": "Product sold",
+    "responseRate": "Response rate",
+    "joinedSince": "Joined since",
+    "aboutProduct": "About product",
+    "customerRating": "Customer rating",
+    "customerQuestions": "Customer questions",
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now",
+    "size": "Size",
+    "colors": "Colors",
+    "question": "Question:",
+    "condition": "Condition",
+    "category": "Category",
+    "quantity": "Quantity",
+    "outStock": "Out of stock",
+    "subCategory": "Sub Category",
+    "currentQuantity": "Current quantity",
+    "material": "Material",
+    "delivery": "Delivery",
+    "sizeAndColors": "Size And Colors",
+    "currentlyUnavailable": "Currently unavailable"
+  },
+  "header": {
+    "signUp": "Create account",
+    "login": "Login to your account",
+    "allCategories": "All Categories",
+    "yourAccount": "Your account",
+    "name": "Andrew white"
+  },
+  "homePage": {
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "productSectionsName": "Product sections name",
+    "popularProduct": "Popular Product",
+    "categoryName": "Category name",
+    "productText": "Product",
+    "errors": {
+      "productNotAdded": "there is no any product added yet"
+    },
+    "carousel": {
+      "heading": "Lorem ipsum dolor sit amet adipiscing elit sed do",
+      "subHeading": "Excepteur sint occaecat cupidatat non proident.",
+      "buttonText": "Learn more"
+    }
+  },
+  "footer": {
+    "copyrightName": "© Copyright company name, 2021",
+    "faq": "FAQ",
+    "chats": "Chats",
+    "myOrders": "My orders",
+    "myProfile": "My Profile",
+    "aboutUs": "About us",
+    "termsConditions": "Terms & conditions",
+    "privacyPolicy": "Privacy policy",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "Categories": {
+    "apparels": "Apparels",
+    "tops": "Tops",
+    "bottoms": "Bottoms",
+    "tSTanks": "T-shirt & tanks",
+    "shirts": "Shirts & polos",
+    "hoodies": "Hoodies & sweatshirts",
+    "cardigans": "Cardigans & sweaters",
+    "jacket": "Jacket & blazzers",
+    "jogger": "Jogger & sweatpants",
+    "shorts": "Shorts",
+    "tights": "Tights",
+    "chinos": "Chinos",
+    "jeans": "Jeans",
+    "trackpants": "Trackpants",
+    "sneakers": "Sneakers"
+  },
+  "categories": {
+    "heading": "Apparel categories",
+    "noData": "No Data Found",
+    "SearchNofound": "Search can’t be found",
+    "tryAnother": "Your keyword can’t be found, please try another keyword ",
+    "noProductsCategoryHeading": "Sorry, We Couldn't Find Any Products in This Category",
+    "noProductsCategoryDescription": "Apologizing for the inconvenience and explaining that no products match the specified category."
+  },
+  "favoriteItems": {
+    "heading": "Favorite items",
+    "searchFavoriteItems": "Search favorite items...",
+    "RemoveModal": {
+      "heading": "Remove favorite item",
+      "subHeading": "Are you sure you want to remove this favorite items from your list?",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "searchPage": {
+    "yourSearched": "Your searched for",
+    "mostRecent": "Most recent"
+  },
+  "wishlist": {
+    "emptyWishlist": "Your wishlist is empty.",
+    "emptyWishlistDsescription": "Save items that you like in your wishlist. Review them anytime and easily move them to the cart.",
+    "addWishlist": "Wishlist Added",
+    "addWishlistMessage": "Item successfully added to the wishlist.",
+    "wishlistAlreadyAdded": "Wishlist Already Added",
+    "wishlistAlreadyAddedMessage": "This item is already in your wishlist.",
+    "addToCart": "Add to cart",
+    "addToCartMessage": "Item has been added to your cart"
+  },
+  "reviews": {
+    "reviewsText": "Add Review",
+    "productReviewHeading": "Product Review",
+    "Rating": "Rating",
+    "writtenReviewsText": "Add a written review",
+    "addPhotoText": "Add Image"
+  }
+}

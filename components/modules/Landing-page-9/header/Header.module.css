@@ -1,0 +1,107 @@
+.headerGradient {
+    background-image: var(--_1hrp33en);
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+  }
+  .Logo{
+    width: 200px;
+    height: 130px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+    margin-top: -20px;
+    /* margin-top: -10px; */
+  }
+  .header {
+    position: relative;
+    z-index: 1;
+  }
+  @media screen and (min-width: 990px) {
+    .header {
+      display: block;
+      padding-top: 32px;
+      padding-left: 32px;
+      padding-right: 32px;
+    }
+    .section_wrapper {
+      width: 100%;
+    }
+  }
+  @media screen and (min-width: 40em) {
+    .header {
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+    .section_wrapper {
+      padding-bottom: 32px;
+      padding-top: 32px;
+    }
+  }
+  .headerText {
+    color: inherit;
+    font-size: var( --_1hrp33e15);
+    text-decoration: none;
+    transition-duration: 0s;
+    transition-property: color;
+    transition-timing-function: ease-in-out;
+  }
+  .headerText a {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    @mixin dark{
+      color: var(--mantine-color-black-4);
+    }
+  }
+  .headerText a:hover{
+    color: var(--_1hrp33ek);
+  }
+  .logoSvg {
+    clip: rect(0 0 0 0);
+    border: 0;
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+  .headerNavBtn {
+    background: none;
+    border: none;
+    color: inherit;
+    font-size: inherit;
+    padding: 0;
+    text-decoration: none;
+    transition-duration: 0s;
+    transition-property: color;
+    transition-timing-function: ease-out;
+  }
+  .popOverText {
+    font-size: clamp(18px, 4.5vw, 20px);
+    line-height: 1em;
+    border-radius: 24px;
+    text-decoration: none;
+    color: #fff;
+  }
+  .popOverText:hover{
+    background-color: #262626;
+  }
+  .drawerLinks {
+    color: var(--_1hrp33e1);
+    display: block;
+    font-size: var(--_1hrp33e17);
+    padding: var(--_1hrp33es) var(--_1hrp33eu);
+    color: inherit;
+    font-size: var(--_1hrp33e15);
+    text-decoration: none;
+    transition-duration: 0s;
+    transition-property: color;
+    transition-timing-function: ease-in-out;
+  }
+  .drawerLinks:hover{
+    color: var(--_1hrp33ek);
+  }

@@ -1,0 +1,64 @@
+.container {
+  padding: var(--_1hrp33eu);
+  color: light-dark(var(--mantine-color-white-0) var(--mantine-color-white-0));
+  border-radius: var(--_1hrp33e20);
+  overflow: hidden;
+  max-width: clamp(1180px, calc(1180 / 1280 * 100vw), 95vw);
+  margin-top: 64px;
+
+}
+.newsLetterInner {
+  flex: 1 1 0;
+  gap: var(--_1hrp33eq);
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.title {
+  font-size: var(--_1hrp33e16);
+  letter-spacing: var(--_1hrp33e1n);
+  line-height: var(--_1hrp33e1j);
+  margin: 0;
+}
+.text {
+  font-size: var(--_1hrp33e14);
+  margin-bottom: var(--_1hrp33es);
+}
+.input {
+  border-radius: 8px;
+  border-width: 0;
+  display: inline-flex;
+  font-size: var(--_1hrp33e13);
+  padding: 16px;
+  width: '100%';
+}
+.formContainer {
+  justify-content: right;
+  gap: var(--_1hrp33et);
+  align-items: center;
+  display: flex;
+}
+.inputWrapper {
+  flex: 1 1 auto;
+  gap: var(--_1hrp33et);
+  align-items: flex-end;
+  display: flex;
+}
+.buttonWrapper {
+  gap: var(--_1hrp33et);
+  align-items: center;
+  display: flex;
+}
+.subscribeButton {
+  background-color: var(--_1hrp33e3);
+  border: 2px solid var(--_1hrp33e3);
+  border-radius: var(--_1hrp33e1z);
+  display: inline-flex;
+  font-size: var(--_1hrp33e15);
+  font-weight: var(--_1hrp33e1e);
+  line-height: var(--_1hrp33e1m);
+  padding: var(--_1hrp33es) var(--_1hrp33et);
+  text-decoration: none;
+  color: var(--mantine-color-black-0);
+  cursor: context-menu;
+}

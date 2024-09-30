@@ -1,0 +1,59 @@
+.drawerLinks {
+  color: var(--_1hrp33e1);
+  display: block;
+  font-size: clamp(20px, 4.5vw, 30px);
+  padding: var(--_1hrp33es) var(--_1hrp33eu);
+  color: inherit;
+  font-size: var(--_1hrp33e15);
+  text-decoration: none;
+  transition-duration: 0s;
+  transition-property: color;
+  transition-timing-function: ease-in-out;
+}
+
+.signUpButton {
+  border-radius: inherit;
+  display: inherit;
+  font-size: clamp(16px, 4.5vw, 20px);
+  background-color: #ffb441;
+  border: 2px solid #ffb441;
+  color: #1a1a1a;
+  font-weight: 500;
+  height: 42px;
+  width: "100%";
+  text-align: center;
+}
+.authButtons {
+  border-radius: 64px;
+  display: inline-flex;
+  font-size: clamp(16px, 4.5vw, 20px);
+  font-weight: 500;
+  line-height: 1;
+  padding: 8px 16px;
+}
+.langButton{
+  color: #fff;
+  @mixin dark{
+    color: var(--mantine-color-black-4);
+  }
+}
+.loginButton {
+  background-color: transparent;
+  border-radius: inherit;
+  display: inherit;
+  font-size: inherit;
+  line-height: 3;
+  @mixin dark{
+    background: #000;
+  }
+}
+.popOverText {
+  font-size: clamp(18px, 4.5vw, 24px);
+  line-height: 1em;
+  border-radius: 24px;
+  text-decoration: none;
+  color: #fff;
+}
+.popOverText:hover{
+  background-color: #262626;
+}

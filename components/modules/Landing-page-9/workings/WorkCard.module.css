@@ -1,0 +1,49 @@
+.sectionWrapper {
+  padding-bottom: 16px;
+  padding-top: 16px;
+  color: light-dark(var(--mantine-color-white-0) var(--mantine-color-white-0));
+  max-width: clamp(1235px, calc(1235 / 1280 * 100vw), 95vw);
+  
+}
+
+
+.card {
+  color:var(--mantine-color-white-0);
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-gray-5));
+  @mixin dark{
+    color:var(--mantine-color-black-0)
+  }
+  padding: 16px;
+  border-radius: 24px;
+}
+
+.cardText {
+  font-size: clamp(20px, 4.5vw, 30px);
+  font-weight: 800;
+  letter-spacing: -0.6px;
+  line-height: 33px;
+  margin-bottom: 16px;
+}
+.description {
+  font-size: clamp(18px, 4.5vw, 24px);
+  line-height: 36px;
+}
+.learnMoreButton {
+  background-color: #fff;
+  border: 2px solid #fff;
+  color: #262626;
+  border-radius: 64px;
+  display: inline-flex;
+  font-size: clamp(16px, 4.5vw, 20px);
+  font-weight: 500;
+  line-height: 1;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.learnMoreButton:hover {
+  background-color: initial;
+  border: 2px solid #fff;
+  color: #fff;
+  transition: background-color 0.25s ease-out;
+  cursor: pointer !important;
+}

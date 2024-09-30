@@ -1,0 +1,63 @@
+.container {
+  background-color: light-dark(var(--_1hrp33ea), var(--mantine-color-blue-0));
+  padding: var(--_1hrp33eu);
+  color: light-dark(var(--mantine-color-white-0) var(--mantine-color-white-0));
+  border-radius: var(--_1hrp33e20);
+  margin:"0px 120px";
+}
+
+.innerBodyCard {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding-bottom: var(--_1hrp33ev);
+  padding-top: var(--_1hrp33ev);
+  width: 100%;
+  
+}
+@media screen and (max-width: 654px) {
+  .innerBodyCard {
+    padding-bottom: var(--_1hrp33et);
+    padding-top: var(--_1hrp33et);
+    gap: var(--_1hrp33et);
+    
+  }
+  .container{
+    margin: 0px 8px;
+  }
+}
+.cardTitle {
+  font-size: var(--_1hrp33e18);
+  font-family: var(--_1hrp33e1h);
+  font-weight: var(--_1hrp33e1f);
+  letter-spacing: var(--_1hrp33e1o);
+  line-height: var(--_1hrp33e1l);
+  margin-bottom: var(--_1hrp33et);
+  margin: 0;
+}
+.innerBodyText {
+  font-size: var(--_1hrp33e16);
+  font-weight: var(--_1hrp33e1b);
+  letter-spacing: var(--_1hrp33e1n);
+  line-height: var(--_1hrp33e1j);
+  margin-bottom: var(--_1hrp33et);
+}
+.contactSalesButton {
+  background-color: transparent;
+  border: 2px solid var(--mantine-color-yellow-0);
+  color: var(--mantine-color-yellow-0);
+  border-radius: 64px;
+  display: inline-flex;
+  font-size: clamp(16px, 4.5vw, 20px);
+  font-weight: 500;
+  line-height: 1;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.contactSalesButton:hover {
+  background-color: var(--mantine-color-yellow-1);
+  border: 2px solid var(--mantine-color-yellow-1);
+  color: var(--_1hrp33e0);
+}
+
+

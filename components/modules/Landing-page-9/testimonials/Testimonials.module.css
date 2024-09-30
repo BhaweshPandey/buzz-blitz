@@ -1,0 +1,52 @@
+
+.container{
+  max-width: clamp(1235px, calc(1235 / 1280 * 100vw), 95vw);
+}
+.title {
+  font-size: var(--_1hrp33e18);
+  font-weight: 600;
+  letter-spacing: -0.01rem;
+  line-height: 1.1;
+  margin-bottom: 32px;
+  font-family: var(--_1hrp33e1h);
+}
+.cardInner {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+}
+@media screen and (min-width: 40em) {
+  .cardInner {
+    flex-direction: row;
+  }
+}
+.card {
+  background: var(--_1hrp33el);
+  border-radius: 24px;
+  padding: var(--_1hrp33e1x);
+}
+.cardText {
+  font-size: clamp(20px, 4.5vw, 25px);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-bottom: 32px;
+}
+
+.citation {
+  font-weight: var(--_1hrp33e1e);
+  font-style: normal;
+  font-size: clamp(16px, 4.5vw, 22px);
+  letter-spacing: -0.01em;
+  margin-bottom: var(--_1hrp33es);
+  text-transform: uppercase;
+}
+.blockQoute {
+  padding-bottom: var(--_1hrp33eu);
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  max-width: '80%';
+}

@@ -1,0 +1,131 @@
+.bodyContainer {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:light-dark(var(--mantine-color-black-2), var(--mantine-color-white-3));
+  font-family: 'Karla', sans-serif;
+  line-height: 1.5em;
+  color: #EEE;
+  @mixin dark{
+    color: #0C0404
+  }
+
+}
+
+.headerGradient {
+  background-image: var(--_1hrp33en);
+  position: relative;
+  width: 100%;
+  z-index: 1000;
+}
+.header {
+  position: relative;
+  z-index: 1;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+}
+@media screen and (min-width: 990px) {
+  .header {
+    display: block;
+    padding-top: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .section_wrapper {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 40em) {
+  .header {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .section_wrapper {
+    padding-bottom: 32px;
+    padding-top: 32px;
+  }
+}
+.headerText {
+  color: inherit;
+  font-size: var(--_1hrp33e15);
+  text-decoration: none;
+  transition-duration: 0s;
+  transition-property: color;
+  transition-timing-function: ease-in-out;
+}
+.headerText a {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+}
+.hero_wrapper {
+  grid-area: 1 / 1;
+  position: relative;
+  place-items: center;
+  display: grid;
+}
+
+.logoSvg {
+  clip: rect(0 0 0 0);
+  border: 0;
+  height: 1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+.headerNavBtn {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: inherit;
+  padding: 0;
+  text-decoration: none;
+  transition-duration: 0s;
+  transition-property: color;
+  transition-timing-function: ease-out;
+}
+
+.authBtns {
+  border-radius: 64px;
+  display: inline-flex;
+  font-size: clamp(16px, 4.5vw, 20px);
+  font-weight: 500;
+  line-height: 1;
+  padding: 8px 16px;
+}
+.signUpBtn {
+  border-radius: inherit;
+  display: inherit;
+  font-size: clamp(16px, 4.5vw, 20px);
+  background-color: #ffb441;
+  border: 2px solid #ffb441;
+  color: #1a1a1a;
+  font-weight: 500;
+  height: 42px;
+  width: 107px;
+}
+.loginBtn {
+  background-color: transparent;
+  border-radius: inherit;
+  display: inherit;
+  font-size: inherit;
+  line-height: 1;
+}
+
+.drawerLinks {
+  color: var(--_1hrp33e1);
+  display: block;
+  font-size: var(--_1hrp33e17);
+  padding: var(--_1hrp33es) var(--_1hrp33eu);
+  color: inherit;
+  font-size: var(--_1hrp33e15);
+  text-decoration: none;
+  transition-duration: 0s;
+  transition-property: color;
+  transition-timing-function: ease-in-out;
+}

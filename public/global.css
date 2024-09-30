@@ -1,0 +1,95 @@
+*,
+::before {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --_1hrp33e0: #1a1a1a;
+  --_1hrp33e1: #fff;
+  --_1hrp33e2: #fff;
+  --_1hrp33e3: #ffb441;
+  --_1hrp33e4: #262626;
+  --_1hrp33e5: #4436ca;
+  --_1hrp33e6: #0047ab;
+  --_1hrp33e7: #000;
+  --_1hrp33e8: #5b37ff;
+  --_1hrp33e9: #4436ca;
+  --_1hrp33ea: #4436ca;
+  --_1hrp33eb: #e5ff44;
+  --_1hrp33ec: #32e3b1;
+  --_1hrp33ed: #fd4e17;
+  --_1hrp33ee: #5194ff;
+  --_1hrp33ef: #74ffec;
+  --_1hrp33eg: #8174ff;
+  --_1hrp33eh: #fdc17d;
+  --_1hrp33ei: #fee0be;
+  --_1hrp33ej: #fff0df;
+  --_1hrp33ek: #ffb441;
+  --_1hrp33el: linear-gradient(133deg, #ffb441, #4436ca);
+  --_1hrp33em: linear-gradient(0deg, #4436ca, #ffb441);
+  --_1hrp33en: linear-gradient(0deg, #1a1a1a00, #1a1a1a60, #0a0a0a75, #0a0a0a);
+  --_1hrp33eo: linear-gradient(0deg, #1a1a1a, #1a1a1a95, #1a1a1a30, #1a1a1a00);
+  --_1hrp33ep: linear-gradient(90deg, #1a1a1a, #1a1a1a, #1a1a1a25, #1a1a1a00);
+  --_1hrp33eq: -0;
+  --_1hrp33er: 4px;
+  --_1hrp33es: 8px;
+  --_1hrp33et: 16px;
+  --_1hrp33eu: 32px;
+  --_1hrp33ev: 64px;
+  --_1hrp33ew: 128px;
+  --_1hrp33ex: -4px;
+  --_1hrp33ey: -8px;
+  --_1hrp33ez: -16px;
+  --_1hrp33e10: -32px;
+  --_1hrp33e11: -64px;
+  --_1hrp33e12: -128px;
+  --_1hrp33e13: clamp(14px, 4.5vw, 16px);
+  --_1hrp33e14: clamp(16px, 4.5vw, 18px);
+  --_1hrp33e15: clamp(16px, 4.5vw, 20px);
+  --_1hrp33e16: clamp(18px, 4.5vw, 24px);
+  --_1hrp33e17: clamp(20px, 4.5vw, 30px);
+  --_1hrp33e18: clamp(22px, 4.5vw, 42px);
+  --_1hrp33e19: clamp(28px, 4.5vw, 58px);
+  --_1hrp33e1a: 64px;
+  --_1hrp33e1b: 400;
+  --_1hrp33e1e: 500;
+  --_1hrp33e1f: 600;
+  --_1hrp33e1g: 'Karla', sans-serif;
+  --_1hrp33e1h: 'Rubik', sans-serif;
+  --_1hrp33e1i: 'DM Mono', 'Menlo', monospace;
+  --_1hrp33e1j: 1.5;
+  --_1hrp33e1k: 1.25;
+  --_1hrp33e1l: 1.1;
+  --_1hrp33e1m: 1;
+  --_1hrp33e1n: 0;
+  --_1hrp33e1o: -0.02em;
+  --_1hrp33e1p: 0.08em;
+  --_1hrp33e1q: 1280px;
+  --_1hrp33e1r: 1024px;
+  --_1hrp33e1s: 1440px;
+  --_1hrp33e1t: 848px;
+  --_1hrp33e1u: 48px;
+  --_1hrp33e1v: 300px;
+  --_1hrp33e1w: 400px;
+  --_1hrp33e1x: 32px;
+  --_1hrp33e1y: 30px;
+  --_1hrp33e1z: 64px;
+  --_1hrp33e20: 24px;
+  --_1hrp33e21: 99999px;
+  --_1hrp33e22: 0px 4px 8px 0px #2e29330a, 0px 4px 24px 0px #2e293314, 0px 8px 24px 0px #473f4f29;
+}
+* {
+  box-sizing: border-box;
+  transition: 0.25s ease-out;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--_1hrp33e0);
+  font-family: var(--_1hrp33e1g);
+  line-height: 1.5em;
+  color: var(--_1hrp33e1);
+}
+body::-webkit-scrollbar {
+  display: none;
+}

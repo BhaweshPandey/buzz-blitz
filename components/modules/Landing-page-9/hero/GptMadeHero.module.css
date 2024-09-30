@@ -1,0 +1,15 @@
+.headingWrapper {
+  font-size: var(--_1hrp33e19);
+  font-family: var(--_1hrp33e1h);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin: 0;
+}
+.subHeading{
+  font-size:clamp(18px, 4.5vw, 24px);
+  letter-spacing: 0;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  font-weight: 400;
+}
